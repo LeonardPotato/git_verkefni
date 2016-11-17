@@ -6,7 +6,7 @@
 	mkdir býr til directory (möppu)
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
+	git clone ALLAHU AKBAR
 	git log
 	git status
 	git diff
