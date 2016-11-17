@@ -6,11 +6,11 @@
 	mkdir býr til directory (möppu)
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone ALLAHU AKBAR
-	git log
-	git status
-	git diff
-	git checkout
+	git clone Klónar innihald geymslu github og færir í skrá
+	git log Sýnir commit log
+	git status checkar status repository (Hvort thu sert med eitthvað til að committa)
+	git diff sýnir hvað hefur breyst á milli commits
+	git checkout skiptir um grein
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
