@@ -19,9 +19,9 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 
-5.	Hverjir eru helstu kostir við að nota GIT?
+5.	Hverjir eru helstu kostir við að nota GIT? Léttara að vinna í hópum, auk þess er hægt að fara til baka ef eitthvað fer til fjandans
 
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? Eins oft og þú getur án þess að missa vitið, þá ert þú alltaf með backup ef eitthvað fer til fjandans.
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
