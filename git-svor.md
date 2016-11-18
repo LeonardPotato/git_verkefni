@@ -25,4 +25,4 @@
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
-8.	Hvenær er sniðugt að nota greinar (branches)?
+8.	Hvenær er sniðugt að nota greinar (branches)? Þegar að skipt er um verkefni.
