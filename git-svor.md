@@ -17,7 +17,7 @@
 	b) git diff --staged 
 	c) git diff commit1 commit2
 
-4. 	Hvað er útgáfustýring (e.version control)? 
+4. 	Hvað er útgáfustýring (e.version control)? Það geymir allar fyrri utgafur forrits 
 
 5.	Hverjir eru helstu kostir við að nota GIT? Léttara að vinna í hópum, auk þess er hægt að fara til baka ef eitthvað fer til fjandans
 
